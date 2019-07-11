@@ -1,0 +1,16 @@
+i=1000
+print(i)
+print(type(i))
+print(id(i))
+j=2000
+print(j)
+print(type(j))
+print(id(j))
+m=3000
+print(m)
+print(type(m))
+print(id(m))
+n=3000
+print(n)
+print(type(n))
+print(id(n))
